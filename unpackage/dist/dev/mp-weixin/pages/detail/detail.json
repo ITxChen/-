@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "详情页",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-dateformat": "../../uni_modules/uni-dateformat/components/uni-dateformat/uni-dateformat",
+    "u-parse": "../../uni_modules/vk-uview-ui/components/u-parse/u-parse",
+    "u-empty": "../../uni_modules/vk-uview-ui/components/u-empty/u-empty"
+  }
+}
